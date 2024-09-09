@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "fdTrGXE5EStqkVqKt/5gBkTUgQ+fAcV9fmTTAthyjFE=",
+  "Source": "ICR Pets",
+  "BasePath": "_content/ICR Pets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ICR Pets\\wwwroot",
+      "Source": "ICR Pets",
+      "ContentRoot": "C:\\Users\\Ícaro e Adriana\\OneDrive\\Área de Trabalho\\ICR Pets\\wwwroot\\",
+      "BasePath": "_content/ICR Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ícaro e Adriana\\OneDrive\\Área de Trabalho\\ICR Pets\\wwwroot\\index.html",
+      "SourceId": "ICR Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ícaro e Adriana\\OneDrive\\Área de Trabalho\\ICR Pets\\wwwroot\\",
+      "BasePath": "_content/ICR Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

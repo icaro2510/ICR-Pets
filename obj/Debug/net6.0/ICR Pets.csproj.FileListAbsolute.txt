@@ -1,0 +1,29 @@
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\appsettings.json
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\ICR Pets.exe
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\ICR Pets.deps.json
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\ICR Pets.runtimeconfig.json
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\ICR Pets.dll
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\ICR Pets.pdb
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\ICR Pets.csproj.AssemblyReference.cache
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\ICR Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\ICR Pets.AssemblyInfoInputs.cache
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\ICR Pets.AssemblyInfo.cs
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\ICR Pets.csproj.CoreCompileInputs.cache
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\ICR Pets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\scopedcss\bundle\ICR Pets.styles.css
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\ICR Pets.dll
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\refint\ICR Pets.dll
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\ICR Pets.pdb
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\ICR Pets.genruntimeconfig.cache
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\ref\ICR Pets.dll
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\ICR Pets.staticwebassets.runtime.json
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\ICR Pets\obj\Debug\net6.0\ICR Pets.csproj.CopyComplete
